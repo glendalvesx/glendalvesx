@@ -1,4 +1,4 @@
-<img align="left" height="200" src="./src/person.png"/>
+<img align="left" height="350" src="./src/person.png"/>
 
 # Hello! I'm Glenda and welcome to my Github profile. 👋
 

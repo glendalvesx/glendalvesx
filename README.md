@@ -1,6 +1,6 @@
 <img align="left" height="200" src="./src/person.png"/>
 
-<h3 align="center"> Hello! I'm Glenda and welcome to my Github profile. 👋 </h3>
+<h3 align="left"> Hello! I'm Glenda and welcome to my Github profile. 👋 </h3>
 
 - 🌱 I’m currently learning Kotlin with AndroidStudio and MongoDB
 

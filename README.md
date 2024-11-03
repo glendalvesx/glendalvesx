@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! I'm Glenda and welcome to my Github profile. 👋 </h1>
 
-<img align="left" height="300" src="./src/person.png"/>
+<img align="left" height="230" src="./src/person.png"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=glendalvesx&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true" height="150" alt="stats graph"  />

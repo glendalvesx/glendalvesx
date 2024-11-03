@@ -1,8 +1,10 @@
-<img align="right" height="190" src="./src/person.png"/>
+<img align="left" height="190" src="./src/person.png"/>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hello! I'm Glenda and welcome to my Github profile. 👋
 
-<br clear="both">
+- 🌱 I’m currently learning Kotlin with AndroidStudio and MongoDB
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=glendalvesx&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true" height="140" alt="stats graph"  />

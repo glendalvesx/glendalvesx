@@ -7,11 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glendalvesx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=bear&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-
-
-<br clear="both">
-
-<div align="right">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />

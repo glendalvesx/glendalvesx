@@ -33,12 +33,8 @@
   <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
 </div>
 
-# 
-
-<br clear="both">
+#
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/glendalvesx/glendalvesx/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
